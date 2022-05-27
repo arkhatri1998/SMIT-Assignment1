@@ -1,0 +1,111 @@
+body {
+    margin: 0%;
+    padding: 0%;
+    background-color: #DBDEDC;
+    width: 100%;
+    height: 1150px;
+    font-family: Segoe UI, Helvetica Neue, Helvetica, Lucida Grande, Arial, Ubuntu, Cantarell, Fira Sans, sans-serif;
+    box-sizing: border-box;
+}
+
+nav {
+    width: 100%;
+    height: 225px;
+    background-color: #00A987;
+    display: block;
+}
+
+.div1 {
+    display: inline;
+}
+
+.navlogo {
+    height: 40px;
+    width: 40px;
+    padding-left: 11%;
+    padding-top: 2%;
+    float: left;
+}
+
+.navtext {
+    color: #fff;
+    padding-left: 1%;
+    padding-top: 3%;
+    display: inline;
+    float: left;
+}
+
+.cntnt_box {
+    position: relative;
+    display: grid;
+    top: -129px;
+    left: 17%;
+    height: 900px;
+    width: 70%;
+    border-radius: 5px;
+}
+
+.cntnt_box1 {
+    background-color: #fff;
+    width: 100%;
+    height: 450px;
+    display: inline;
+    position: relative;
+}
+
+.cntnt_box2 {
+    background-color: #F9F9FA;
+    width: 100%;
+    height: 450px;
+    display: block;
+}
+
+.box1_title {
+    width: 60%;
+    font-size: 28px;
+    font-weight: 300;
+    line-height: normal;
+    color: #41525d;
+    margin-bottom: 40px;
+    padding-left: 58px;
+    padding-top: 70px;
+    float: left;
+}
+
+.list {
+    width: 60%;
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 45px;
+    padding-left: 46px;
+    float: left;
+}
+
+.box1_qr {
+    float: right;
+    padding-right: 19px;
+    padding-top: 62px;
+}
+
+.font_bold {
+    color: #364B54;
+    font-weight: 500;
+}
+
+a {
+    text-decoration: none;
+}
+
+.help_link {
+    position: relative;
+    float: left;
+    color: #00A987;
+    width: 60%;
+    padding-left: 65px;
+    padding-top: 22px;
+}
+
+.video1 {
+    padding-left: 160px;
+    padding-top: 75px;
+}
